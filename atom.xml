@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Life | 前端君</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-09-19T13:47:12.253Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>maczyt</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JS模拟事件</title>
+    <link href="http://yoursite.com/2017/09/19/JS%E6%A8%A1%E6%8B%9F%E4%BA%8B%E4%BB%B6/"/>
+    <id>http://yoursite.com/2017/09/19/JS模拟事件/</id>
+    <published>2017-09-19T13:46:30.000Z</published>
+    <updated>2017-09-19T13:47:12.253Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Init-this-article"><a href="#Init-this-article" class="headerlink" title="Init this article"></a>Init this article</h1>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Init-this-article&quot;&gt;&lt;a href=&quot;#Init-this-article&quot; class=&quot;headerlink&quot; title=&quot;Init this article&quot;&gt;&lt;/a&gt;Init this article&lt;/h1&gt;
+      
+    
+    </summary>
+    
+    
+      <category term="JS" scheme="http://yoursite.com/tags/JS/"/>
+    
+      <category term="EVENT" scheme="http://yoursite.com/tags/EVENT/"/>
+    
+  </entry>
+  
+</feed>
