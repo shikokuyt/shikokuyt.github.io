@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-19T14:26:36.930Z</updated>
+  <updated>2018-01-24T15:13:15.068Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Function基本知识梳理</title>
+    <link href="http://yoursite.com/2018/01/24/Function%E5%9F%BA%E6%9C%AC%E7%9F%A5%E8%AF%86%E6%A2%B3%E7%90%86/"/>
+    <id>http://yoursite.com/2018/01/24/Function基本知识梳理/</id>
+    <published>2018-01-24T14:47:58.000Z</published>
+    <updated>2018-01-24T15:13:15.068Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Function"><a href="#Function" class="headerlink" title="Function"></a>Function</h1><blockquote><p>JS世界里的一等公民</p></blockquote><a id="more"></a><p>我们定义一个<code>main</code>函数<br><figure class="highlight js"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="function"><span class="keyword">function</span> <span class="title">main</span>(<span class="params"></span>) </span>&#123;</div><div class="line">  <span class="comment">// code</span></div><div class="line">&#125;</div></pre></td></tr></table></figure></p><p>通过<code>main</code>变量，我们可以获取<br><figure class="highlight js"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">&#123;</div><div class="line">  length: 函数定义的形参个数,</div><div class="line">  name: 函数名,</div><div class="line">  <span class="built_in">arguments</span>: 实参类数组,</div><div class="line">  caller: 调用该函数的对象,</div><div class="line">&#125;</div></pre></td></tr></table></figure></p><div class="tip"><br>  未完待续<br></div>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Function&quot;&gt;&lt;a href=&quot;#Function&quot; class=&quot;headerlink&quot; title=&quot;Function&quot;&gt;&lt;/a&gt;Function&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;JS世界里的一等公民&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="Function JS" scheme="http://yoursite.com/tags/Function-JS/"/>
+    
+  </entry>
   
   <entry>
     <title>JS模拟事件</title>
